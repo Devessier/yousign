@@ -1,6 +1,6 @@
-module github.com/tbruyelle/yousign
+module github.com/Devessier/yousign
 
-go 1.12
+go 1.16
 
 require (
 	github.com/bxcodec/faker/v3 v3.6.0
